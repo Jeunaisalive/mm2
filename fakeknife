@@ -64,7 +64,7 @@ local function onButton1Down()
 end
 
 local function onKeyPress(input)
-    if input.KeyCode == getgenv().penis then
+    if input.KeyCode == getgenv().heyheyiwant30bigmacs then
         keyPressCount = keyPressCount + 1
         if keyPressCount == 1 then
             setupTool()
